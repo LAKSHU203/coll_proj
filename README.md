@@ -1,3 +1,2 @@
 # coll_proj
-desktop
-
+solo
